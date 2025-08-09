@@ -11,7 +11,9 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/victor-queiroz-8b54371a6/">
+  <img width="60" height="62" alt="image" src="https://github.com/user-attachments/assets/5f403854-e4b8-40a4-ae8b-6c90fb965447" />
+  </a>
 </div>
 
 ###
