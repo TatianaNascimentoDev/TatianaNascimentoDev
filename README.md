@@ -12,7 +12,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/victor-queiroz-8b54371a6/">
-  <img width="60" height="62" alt="image" src="https://github.com/user-attachments/assets/5f403854-e4b8-40a4-ae8b-6c90fb965447" />
+  <img width="40" height="42" alt="image" src="https://github.com/user-attachments/assets/5f403854-e4b8-40a4-ae8b-6c90fb965447" />
   </a>
 </div>
 
